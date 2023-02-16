@@ -6,6 +6,7 @@
         {
             Console.WriteLine("This is the Git checkpoint task 1.1");
             CheckTest.testMessage("Task 2 checked");
+            Calculate.AddingTwoNumbers(2, 8);
         }
     }
 }
